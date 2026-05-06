@@ -13,3 +13,7 @@ body {
     height: 100%;
     width: 100%;
 }
+
+ag-grid-angular.with-custom-text-color .ag-column-drop-list {
+    color: white;
+}
